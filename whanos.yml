@@ -1,0 +1,3 @@
+deployment:
+  ports:
+    - 3001
